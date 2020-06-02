@@ -1,22 +1,6 @@
 # spherominicontroller
+This flutter project uses the esense earbles to create a funny method to control a sphero mini robot ball.
 
-insert this into android Manifest
-  <uses-permission android:name="android.permission.BLUETOOTH"/>
-  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
-  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+esense earables: https://www.esense.io/   
 
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+demonstration of the app: https://youtu.be/lFdZw2JB-hE
